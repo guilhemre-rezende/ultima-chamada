@@ -278,7 +278,7 @@ export default function LandingUltimaChamada() {
             <span className="dch-price-cap">PDF imediato · pagamento único</span>
           </div>
 
-          <a href="#receber" className="dch-btn dch-btn-primary dch-btn-lg">
+          <a href="https://pay.kiwify.com.br/1jsA2x1" target="_blank" rel="noopener noreferrer" className="dch-btn dch-btn-primary dch-btn-lg">
             Receber o dossiê
           </a>
           <p className="dch-fiction">

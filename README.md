@@ -23,7 +23,7 @@ npm run preview   # opcional: testar o build localmente
 Tudo fica em `src/LandingUltimaChamada.jsx`:
 
 - **Preço:** procure por `R$ 11,99` (seção do CTA final).
-- **Link de compra:** os botões "Receber o dossiê" usam `href="#receber"`.
+- **Link de compra:** os botões "Receber o dossiê" usam `href="https://pay.kiwify.com.br/1jsA2x1"`.
   Troque pelo link do seu checkout (Hotmart, Kiwify, etc.).
 - **Redes sociais:** no rodapé, os links de Instagram / TikTok / WhatsApp
   estão como `href="#"` — coloque seus perfis.
@@ -32,4 +32,5 @@ Tudo fica em `src/LandingUltimaChamada.jsx`:
 
 Os depoimentos são fictícios e anônimos de propósito; troque pelos reais
 quando tiver.
+
 # ultima-chamada
